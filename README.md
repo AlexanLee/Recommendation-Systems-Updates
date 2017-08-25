@@ -1,5 +1,6 @@
-# Deep-Learning-for-Recommendation-Systems
-This repository contains Deep Learning based Articles , Papers and Repositories for Recommendation Systems.
+# Recommendation-Systems-Updates
+This repository is for the updates of Recommendation Systems.
+There are some Deep Learning based Articles , Papers and Repositories for Recommendation Systems.
 ## Papers
 1. Convolutional Matrix Factorization for Document Context-Aware Recommendation by Donghyun Kim, Chanyoung Park, Jinoh Oh, Seungyong Lee, Hwanjo Yu, RecSys 2016.<br>
 Source: http://dm.postech.ac.kr/~cartopy/ConvMF/, Code: https://github.com/cartopy/ConvMF
