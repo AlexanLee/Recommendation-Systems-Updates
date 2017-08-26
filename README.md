@@ -55,7 +55,7 @@ Source: https://arxiv.org/abs/1705.00105
 26. DeepFM: A Factorization-Machine based Neural Network for CTR Prediction. IJCAI2017 <br> Source:  https://arxiv.org/abs/1703.04247 , code (provided by readers): https://github.com/Leavingseason/OpenLearning4DeepRecsys
 27. content-based music recommendation using convolutional neural networks
 Source: http://benanne.github.io/2014/08/05/spotify-cnns.html
-28.ad click prediction 
+28. ad click prediction <br>
 Source:https://www.eecs.tufts.edu/~dsculley/papers/ad-click-prediction.pdf
 
 ## Blogs
